@@ -4,9 +4,9 @@ repo: status.miguelallopes.dev # The name of this repository
 
 sites:
   - name: [SERVER] starlight
-    url: https://starlight.server.miguelallopes.dev
+    url: https://starlight.server.miguelalopes.dev
   - name: [SERVER] firelink
-    url: https://firelink.server.miguelallopes.dev
+    url: https://firelink.server.miguelalopes.dev
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
