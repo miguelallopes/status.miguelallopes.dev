@@ -3,9 +3,9 @@ owner: miguelallopes # Your GitHub organization or username, where this reposito
 repo: status.miguelallopes.dev # The name of this repository
 
 sites:
-  - name: [SERVER] starlight
+  - name: starlight
     url: https://starlight.server.miguelalopes.dev
-  - name: [SERVER] firelink
+  - name: firelink
     url: https://firelink.server.miguelalopes.dev
 
 status-website:
