@@ -3,10 +3,10 @@ owner: miguelallopes # Your GitHub organization or username, where this reposito
 repo: status.miguelallopes.dev # The name of this repository
 
 sites:
-  - name: starlight
-    url: https://starlight.server.miguelalopes.dev
-  - name: firelink
-    url: https://firelink.server.miguelalopes.dev
+  - name: (server) starlight
+    url: https://starlight.server.miguelallopes.dev
+  - name: (server) firelink
+    url: https://firelink.server.miguelallopes.dev
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
