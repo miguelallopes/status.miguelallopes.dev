@@ -4,9 +4,9 @@
     "url": "https://starlight.server.miguelallopes.dev",
     "icon": "https://icons.duckduckgo.com/ip3/starlight.server.miguelallopes.dev.ico",
     "slug": "server-starlight",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 383,
     "timeMonth": 367,
     "timeYear": 375,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-01": 0
+    }
   },
   {
     "name": "(server) firelink",
     "url": "https://firelink.server.miguelallopes.dev",
     "icon": "https://icons.duckduckgo.com/ip3/firelink.server.miguelallopes.dev.ico",
     "slug": "server-firelink",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 371,
     "timeMonth": 364,
     "timeYear": 373,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-01": 0
+    }
   },
   {
     "name": "Website miguelallopes.dev",
